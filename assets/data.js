@@ -11,7 +11,7 @@ module.exports = [
       foodurl:"https://s3-media1.fl.yelpcdn.com/bphoto/fri_Oe_6JlSrKoJjAOTtZA/o.jpg",
       tags:["Seafood"],
       price:"$$",
-      shopurl: "https://www.yelp.com/biz/lukes-lobster-back-bay-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=vqeXtG6JIy5EdNAkFggvfQ"
+      shopurl: "https://www.yelp.com/biz/lukes-lobster-back-bay-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
       latitude: "42.3485601423781",
       longitude: "-71.0791224248571"
     },
