@@ -1,0 +1,886 @@
+{
+    "businesses": [
+        {
+            "id": "i6uHrxuS1D_6V8WhaWLy5A",
+            "alias": "lukes-lobster-back-bay-boston",
+            "name": "Luke's Lobster Back Bay",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fri_Oe_6JlSrKoJjAOTtZA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lukes-lobster-back-bay-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 1296,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.3485601423781,
+                "longitude": -71.0791224248571
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "75 Exeter Street",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02116",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "75 Exeter Street",
+                    "Boston, MA 02116"
+                ]
+            },
+            "phone": "+18573504626",
+            "display_phone": "(857) 350-4626",
+            "distance": 390.01223439010613
+        },
+        {
+            "id": "inAEY3i1hYR4BlJfPgKFPw",
+            "alias": "santouka-back-bay-boston-2",
+            "name": "Santouka Back Bay",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GTODiwvJTafQAaH0zv_i5Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/santouka-back-bay-boston-2?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 374,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.3484762870602,
+                "longitude": -71.0854271426797
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "66 Hereford St",
+                "address2": "",
+                "address3": null,
+                "city": "Boston",
+                "zip_code": "02115",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "66 Hereford St",
+                    "Boston, MA 02115"
+                ]
+            },
+            "phone": "+18573105194",
+            "display_phone": "(857) 310-5194",
+            "distance": 125.89947022783457
+        },
+        {
+            "id": "t_FFcwUutj9mIYKGw_gHsQ",
+            "alias": "the-salty-pig-boston",
+            "name": "The Salty Pig",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zEFwwn7rBu2G2IWdkxLICQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-salty-pig-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 1452,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.346881,
+                "longitude": -71.076121
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "130 Dartmouth St",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02116",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "130 Dartmouth St",
+                    "Boston, MA 02116"
+                ]
+            },
+            "phone": "+16175366200",
+            "display_phone": "(617) 536-6200",
+            "distance": 708.5550580822079
+        },
+        {
+            "id": "cOk43K9MNNwePZo2hjsBxQ",
+            "alias": "spyce-boston-2",
+            "name": "Spyce",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/z-sCfLGwgNjDyj_a4b18yw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/spyce-boston-2?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 152,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.35804,
+                "longitude": -71.05815
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "241 Washington St",
+                "address2": null,
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02201",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "241 Washington St",
+                    "Boston, MA 02201"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2349.3391587824904
+        },
+        {
+            "id": "1W7-WnlJevwgg446OP2HPA",
+            "alias": "sama-confections-boston",
+            "name": "SAMA Confections",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PL20zhe2yUrX0o2lw8REeA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sama-confections-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 42.349355192047,
+                "longitude": -71.0840317331167
+            },
+            "transactions": [],
+            "location": {
+                "address1": "279 Newbury St",
+                "address2": null,
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02116",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "279 Newbury St",
+                    "Boston, MA 02116"
+                ]
+            },
+            "phone": "+14019997262",
+            "display_phone": "(401) 999-7262",
+            "distance": 27.199827703792153
+        },
+        {
+            "id": "kP1b-7BO_VhWk_0tvuA_tw",
+            "alias": "carmelinas-boston-2",
+            "name": "Carmelina's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qJSoZ8eOLSXkBq92py5zMg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carmelinas-boston-2?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 1189,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 42.36388,
+                "longitude": -71.05415
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "307 Hanover St",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02113",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "307 Hanover St",
+                    "Boston, MA 02113"
+                ]
+            },
+            "phone": "+16177420020",
+            "display_phone": "(617) 742-0020",
+            "distance": 2965.5383187753655
+        },
+        {
+            "id": "dBEr7RLilPrgTCM2GxJcKA",
+            "alias": "love-art-sushi-boston",
+            "name": "Love Art Sushi",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZQTNR9Rp0ENVo3GeTUBeDQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/love-art-sushi-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 213,
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.34662,
+                "longitude": -71.08747
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1 Haviland St",
+                "address2": "",
+                "address3": null,
+                "city": "Boston",
+                "zip_code": "02115",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "1 Haviland St",
+                    "Boston, MA 02115"
+                ]
+            },
+            "phone": "+16179826953",
+            "display_phone": "(617) 982-6953",
+            "distance": 388.99622108990894
+        },
+        {
+            "id": "mNjI-BGs-FMaZCdwgP_8uA",
+            "alias": "hokkaido-ramen-santouka-cambridge-2",
+            "name": "Hokkaido Ramen Santouka",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-94On9pzr0LKHPYynTGPBQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hokkaido-ramen-santouka-cambridge-2?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 962,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.3724478,
+                "longitude": -71.1161063
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1230 Massachusetts Avenue One Bow St",
+                "address2": null,
+                "address3": "Boston Harvard Square",
+                "city": "Cambridge",
+                "zip_code": "02138",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "1230 Massachusetts Avenue One Bow St",
+                    "Boston Harvard Square",
+                    "Cambridge, MA 02138"
+                ]
+            },
+            "phone": "+16179451460",
+            "display_phone": "(617) 945-1460",
+            "distance": 3649.557514108212
+        },
+        {
+            "id": "b3pIGHFgjtP2E4ZHB9a6nw",
+            "alias": "i-ce-ny-boston",
+            "name": "I-CE-NY",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3hMuPTxxVWE1LFtCDXAZoQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/i-ce-ny-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 42.35015,
+                "longitude": -71.08137
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "217 Newbury St",
+                "address2": null,
+                "address3": null,
+                "city": "Boston",
+                "zip_code": "02116",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "217 Newbury St",
+                    "Boston, MA 02116"
+                ]
+            },
+            "phone": "+18572398438",
+            "display_phone": "(857) 239-8438",
+            "distance": 256.86347661548217
+        },
+        {
+            "id": "QD5i6wFAmz_tkUmZpocRqA",
+            "alias": "orá-trattorizza-boston",
+            "name": "Orá Trattorizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KwI4kb8CMUEbac48bw-tGg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/or%C3%A1-trattorizza-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 42.35007,
+                "longitude": -71.07849
+            },
+            "transactions": [],
+            "location": {
+                "address1": "653 Boylston St",
+                "address2": "",
+                "address3": null,
+                "city": "Boston",
+                "zip_code": "02116",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "653 Boylston St",
+                    "Boston, MA 02116"
+                ]
+            },
+            "phone": "+18572398437",
+            "display_phone": "(857) 239-8437",
+            "distance": 478.05119503720766
+        },
+        {
+            "id": "y2w6rFaO0XEiG5mFfOsiFA",
+            "alias": "neptune-oyster-boston",
+            "name": "Neptune Oyster",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6Uka94aThZOO21HGKJn9GA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/neptune-oyster-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 4346,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 42.3632711771092,
+                "longitude": -71.0560575975533
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "63 Salem St",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02113",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "63 Salem St",
+                    "Boston, MA 02113"
+                ]
+            },
+            "phone": "+16177423474",
+            "display_phone": "(617) 742-3474",
+            "distance": 2794.831270974762
+        },
+        {
+            "id": "3ejv6lfK3Qd9Q-pb_9YVUA",
+            "alias": "energize-boston-2",
+            "name": "Energize",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SKB237JHtii6T-W33KBu6w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/energize-boston-2?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 42.3438299,
+                "longitude": -71.08646
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "265 Massachusetts Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02115",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "265 Massachusetts Ave",
+                    "Boston, MA 02115"
+                ]
+            },
+            "phone": "+18573173868",
+            "display_phone": "(857) 317-3868",
+            "distance": 626.380944930211
+        },
+        {
+            "id": "sqr1T-KLQ7ED49SlAEx49w",
+            "alias": "sojuba-boston",
+            "name": "Sojuba",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3F6CmSDyiDU7Xi3juMHaCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sojuba-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 150,
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 42.34475,
+                "longitude": -71.09596
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1260 Boylston St",
+                "address2": null,
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02215",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "1260 Boylston St",
+                    "Boston, MA 02215"
+                ]
+            },
+            "phone": "+16179218999",
+            "display_phone": "(617) 921-8999",
+            "distance": 1080.432051146678
+        },
+        {
+            "id": "EbUZhM4fLpsWQ8fpBhhgEQ",
+            "alias": "mike-and-pattys-boston",
+            "name": "Mike & Patty's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5yjX0pGQKxWpqvMxtmlFXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mike-and-pattys-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 1415,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 42.348561,
+                "longitude": -71.067928
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "12 Church St",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02116",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "12 Church St",
+                    "Boston, MA 02116"
+                ]
+            },
+            "phone": "+16174233447",
+            "display_phone": "(617) 423-3447",
+            "distance": 1337.4465092934906
+        },
+        {
+            "id": "Hz_fXkcR85-6EQfkOKV5IQ",
+            "alias": "shake-shack-boston",
+            "name": "Shake Shack",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h6Z4wxEcP4HkswyQhzGDRQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shake-shack-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 326,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 42.3496666,
+                "longitude": -71.0816727
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "234 Newbury St",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02116",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "234 Newbury St",
+                    "Boston, MA 02116"
+                ]
+            },
+            "phone": "+16179335050",
+            "display_phone": "(617) 933-5050",
+            "distance": 223.05694063099463
+        },
+        {
+            "id": "72PQGMhrEcIuWH-S44TprA",
+            "alias": "myers-and-chang-boston",
+            "name": "Myers & Chang",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZGXvH3mibDf4VS4rIhI3xQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/myers-and-chang-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 1466,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.3438187315924,
+                "longitude": -71.066250270967
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1145 Washington St",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02118",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "1145 Washington St",
+                    "Boston, MA 02118"
+                ]
+            },
+            "phone": "+16175425200",
+            "display_phone": "(617) 542-5200",
+            "distance": 1588.0925287957675
+        },
+        {
+            "id": "2u_w3rthRzR2uEihW5BC4A",
+            "alias": "giacomos-ristorante-boston",
+            "name": "Giacomo's Ristorante",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g-lo6_IuVNaiKMCikW4bSQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/giacomos-ristorante-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 3081,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.36458,
+                "longitude": -71.05344
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "355 Hanover St",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02113",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "355 Hanover St",
+                    "Boston, MA 02113"
+                ]
+            },
+            "phone": "+16175239026",
+            "display_phone": "(617) 523-9026",
+            "distance": 3060.7860902112193
+        },
+        {
+            "id": "xlOMKjE4omTgkI1eduWj8A",
+            "alias": "the-friendly-toast-back-bay",
+            "name": "The Friendly Toast",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/chywdZRvRKjtowlabYhtsg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-friendly-toast-back-bay?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 848,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.3485299,
+                "longitude": -71.07325
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "35 Stanhope St",
+                "address2": null,
+                "address3": "",
+                "city": "Back Bay",
+                "zip_code": "02116",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "35 Stanhope St",
+                    "Back Bay, MA 02116"
+                ]
+            },
+            "phone": "+16174567849",
+            "display_phone": "(617) 456-7849",
+            "distance": 910.4646310976699
+        },
+        {
+            "id": "Alq-zjJOfiS_0sTxYqm9xg",
+            "alias": "dirty-water-dough-boston-6",
+            "name": "Dirty Water Dough",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zptiy13Q0iyw7KlkbJYZzg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dirty-water-dough-boston-6?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 367,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.349734,
+                "longitude": -71.081072
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "222 Newbury St",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02116",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "222 Newbury St",
+                    "Boston, MA 02116"
+                ]
+            },
+            "phone": "+16172620090",
+            "display_phone": "(617) 262-0090",
+            "distance": 264.18692873991444
+        },
+        {
+            "id": "PrsvO1rzkgg6qFizlAoEtg",
+            "alias": "mikes-pastry-boston",
+            "name": "Mike's Pastry",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5M2GhfdydgehekqELk68DQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mikes-pastry-boston?adjust_creative=vqeXtG6JIy5EdNAkFggvfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=vqeXtG6JIy5EdNAkFggvfQ",
+            "review_count": 6233,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 42.3642084860954,
+                "longitude": -71.0542717160405
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "300 Hanover St",
+                "address2": "",
+                "address3": "",
+                "city": "Boston",
+                "zip_code": "02113",
+                "country": "US",
+                "state": "MA",
+                "display_address": [
+                    "300 Hanover St",
+                    "Boston, MA 02113"
+                ]
+            },
+            "phone": "+16177423050",
+            "display_phone": "(617) 742-3050",
+            "distance": 2974.772076405282
+        }
+    ],
+    "total": 8100,
+    "region": {
+        "center": {
+            "longitude": -71.084184,
+            "latitude": 42.349138
+        }
+    }
+}
