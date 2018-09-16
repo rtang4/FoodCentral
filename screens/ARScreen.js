@@ -4,7 +4,7 @@ import { Font } from 'expo';
 import Header from '../components/header.js'
 import Gallery from '../components/gallery.js'
 
-export default class HomeScreen extends React.Component {
+export default class ARScreen extends React.Component {
   constructor(props) {
     super(props);
     this.state={
@@ -14,8 +14,7 @@ export default class HomeScreen extends React.Component {
   render(){
     return(
       <View>
-        <Header navigation={this.props.navigation}/>
-        <Gallery navigation={this.props.navigation}/>
+        <Text>hello</Text>
       </View>
     )
   }
