@@ -32,8 +32,8 @@ export default class Gallery extends React.Component{
   }
 
   render(){
-    console.log("rendered!")
-    console.log(this.props.images)
+    // console.log("rendered!")
+    // console.log(this.props.images)
     return(
       <Masonry
         sorted // optional - Default: false
