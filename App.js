@@ -1,9 +1,8 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { createStackNavigator } from 'react-navigation';
-import expo from 'expo';
+// import expo from 'expo';
 import HomeScreen from './screens/HomeScreen.js'
-import ARScreen from './screens/ARScreen.js'
 
 class App extends React.Component {
   render() {
@@ -15,11 +14,14 @@ class App extends React.Component {
 }
 
 export default createStackNavigator({
-  Home : HomeScreen,
-  AR : ARScreen
+  Home : HomeScreen
 },
 {
     headerMode: 'none',
+    mode: 'modal',
+    navigationOptions: {
+      gesturesEnabled: false,
+    },
 }
 );
 

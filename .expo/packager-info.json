@@ -1,8 +1,8 @@
 {
-  "expoServerPort": 19001,
+  "expoServerPort": 19000,
   "packagerPort": 19003,
-  "packagerPid": 29576,
-  "expoServerNgrokUrl": "https://yd-6bq.rtang4.foodcentral.exp.direct",
-  "packagerNgrokUrl": "https://packager.yd-6bq.rtang4.foodcentral.exp.direct",
-  "ngrokPid": 25280
+  "packagerPid": 55641,
+  "expoServerNgrokUrl": "https://yd-6bq.jku.foodcentral.exp.direct",
+  "packagerNgrokUrl": "https://packager.yd-6bq.jku.foodcentral.exp.direct",
+  "ngrokPid": 55658
 }
