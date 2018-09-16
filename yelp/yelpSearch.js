@@ -6,8 +6,7 @@ const client = yelp.client(apiKey);
 
 // get restaurant IDs near coordinates
 
-function getRestaurantDetails() {
-  async function getRestaurantIds() {
+async function getRestaurantDetails() {
     const restaurantIds = async () => {
       const response = await client.search({
         term:'food',
@@ -18,22 +17,36 @@ function getRestaurantDetails() {
       return response.jsonBody.businesses.filter(business => {
         return business.id !== "";
       }).map(business => {
+        //const thisId = .then(details => {
+  //console.log(details);
         return business.id;
       })
     }
+    return restaurantIds; 
   }
-  console.log("id array length: " + getRestaurantIds().length);
+  getRestaurantDetails().then(ids => console.log(ids));
 
-  /*for (var i = 0; i < restaurantIds; i++) {
-  console.log("inside for loop");
-  const theseDetails = getDetails(restaurantIds[i]).then(details => {
-  console.log(details);
-  return details;
-})
-} */
 
-/*  async function getAllDetails () {
-    await Promise.all(getRestaurantIds() => {
+/*
+  async function getAllDetails (restaurantIds) {
+
+    async function getDetails (restaurantIds) {
+      const pArray = restaurantIds.map(async anId => {
+        const details = await client.business(anId);
+        var allDetails = details.jsonBody;
+        console.log(allDetails);
+        return response.json();
+      });
+      const allDetails = await Promise.all(pArray);
+      // ... do some stuff
+      return allDetails;
+    }
+    getDetails(restaurantIds).then(console.log(details));
+  }
+
+    getAllDetails(restaurantIds); */
+
+    /* const restaurantIds = await Promise.all(restaurantIds => {
       const theseDetails = getDetails(anId).then(details => {
         console.log(details);
         return details;
@@ -41,14 +54,15 @@ function getRestaurantDetails() {
     }); */
 
     // start medium
+/*
     async function getDetails (restaurantIds) {
       const details = await restaurantIds.map(restaurantIds, async restaurantId => {
         const response = await client.business(restaurantId);
         return response.json();
       });
-      // ... do some stuff
       return details;
     }
+
     // log details
     const { forEach } = require('p-iteration');
     function logDetails (restaurantIds) {
@@ -57,11 +71,10 @@ function getRestaurantDetails() {
         const details = await response.json();
         console.log(details);
       });
-    }
+    } */
     // end medium
-    getDetails();
-    logDetails();
-  /*  const getDetails = async (anId) => {
+
+  /* const getDetails = async (anId) => {
       console.log("anId: " + anId);
       const details = await client.business(anId);
       var allDetails = details.jsonBody;
@@ -71,7 +84,7 @@ function getRestaurantDetails() {
   }
   getAllDetails(); */
 
-}
+
 
   // get details on a specific business
   /*function getDetailsOfABusiness() {
@@ -89,5 +102,3 @@ function getRestaurantDetails() {
 
   // getDetails('kP1b-7BO_VhWk_0tvuA_tw').then(details => console.log(details));
   // getDetailsOfABusiness();
-
-getRestaurantDetails();
