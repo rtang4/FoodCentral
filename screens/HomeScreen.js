@@ -17,7 +17,7 @@ export default class HomeScreen extends React.Component {
     console.log("heeelo")
     return(
       <View style={{flex:1, flexDirection:'column'}}>
-        {/* <Draggable renderShape='image' imageSource={Camera} reverse={false} renderSize={56} renderColor='black' offsetX={120} offsetY={200} renderText='A' pressDrag={() => this.props.navigation.navigate('AR')}/> */}
+        <Draggable renderShape='image' imageSource={Camera} reverse={false} renderSize={56} renderColor='black' offsetX={120} offsetY={200} renderText='A' pressDrag={() => this.props.navigation.navigate('AR')}/>
         <Header navigation={this.props.navigation}/>
 
       </View>
