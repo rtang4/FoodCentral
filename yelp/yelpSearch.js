@@ -12,7 +12,9 @@ async function getRestaurantDetails() {
         term:'food',
         latitude: '42.349138',
         longitude: '-71.084184',
-        limit: '5' // change to number we want to show (max?)
+        latitude: '31.221468',
+        longitude: '121.459248',
+        limit: '20' // change to number we want to show (max?)
       })
       return response.jsonBody.businesses.filter(business => {
         return business.id !== "";
@@ -22,9 +24,8 @@ async function getRestaurantDetails() {
         return business.id;
       })
     }
-    return restaurantIds; 
   }
-  getRestaurantDetails().then(ids => console.log(ids));
+  (ids => console.log(ids));
 
 
 /*
