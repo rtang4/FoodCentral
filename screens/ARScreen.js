@@ -77,13 +77,13 @@ class HitTest extends React.Component {
       // console.log('expo asset', Expo.Asset.fromModule(require('./food1.jpg')))
       // console.log('assetutil', await AssetUtil.resolveAsync({uri: rest["img"]}))
 
-      console.log(rest.x*10, rest.y*10, rest.name)
+      // console.log(rest.x*10, rest.y*10, rest.name)
       const geometry = new THREE.BoxGeometry(0.50,0.50, 0.50);
       // const material = new THREE.MeshPhongMaterial({ color: 0x00ff00})
       const material = new THREE.MeshBasicMaterial({
         map: await ExpoTHREE.createTextureAsync({
           asset: Expo.Asset.fromModule(require('./food1.jpg'))
-          // asset: AssetUtil.resolveAsync({uri: rest.img})
+          // asset: AssetUtils.resolveAsync({uri: rest.img})
         })
       })
       const temp = new THREE.Mesh(geometry, material);

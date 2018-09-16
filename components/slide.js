@@ -12,19 +12,16 @@ import YelpData from '../assets/data.js'
 
 
 export default class Slide extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state={
-    }
-  }
-
-
   render(){
+    console.log(this.props)
     return(
       <View style={{width: 350, height: 400, backgroundColor: '#fffff2', alignItems: 'center', paddingTop:80, paddingRight:50}}>
-        <Text style={{}}>{this.props.navigation.state.params.resturant}</Text>
-        <Text style={{}}>{this.props.navigation.state.params.tags}</Text>
-        <Text style={{}}>{this.props.navigation.state.params.price}</Text>
+        <Text style={{}}>{this.props.restaurant}</Text>
+        <Text style={{}}>{this.props.tags}</Text>
+        <Text style={{}}>{this.props.price}</Text>
+        <TouchableOpacity onPress={()=>this.props.navigation.navigate('Web', {url: this.props.url})}>
+          <Text style={{textDecoration: "underline"}}>See Website</Text>
+        </TouchableOpacity>
       </View>
       )
     }

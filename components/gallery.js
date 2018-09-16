@@ -30,14 +30,18 @@ export default class Gallery extends React.Component {
     return(
       <View style={{flex:1, flexDirection:'column', itemAlign: 'center', justifyContent: 'center', paddingLeft:10}}>
         {this.state.galleryImg.map(photo =>
-          <View style={{width: 350, height: 400, backgroundColor: 'steelblue',itemAlign: 'center', justifyContent: 'center'}}>
-            <Swipeout buttonWidth={300} right={[{component:<Slide/>}]}>
+          { console.log(photo)
+            return <View style={{width: 350, height: 400, backgroundColor: 'steelblue', justifyContent: 'center'}}>
+            <Swipeout buttonWidth={300} right={[{component:
+              <Slide restaurant={photo.restaurant} tags={photo.tags} url={photo.shopurl}
+                navigation={this.props.navigation} price={photo.price} />
+            }]}>
             <Image
               style={{width: 350, height: 500}}
               source={{uri: photo.foodurl}}
             />
           </Swipeout>
-          </View>)}
+          </View>})}
         </View>
       )
     }

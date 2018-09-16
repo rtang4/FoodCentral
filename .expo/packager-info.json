@@ -1,8 +1,8 @@
 {
   "expoServerPort": 19000,
-  "packagerPort": 19011,
-  "packagerPid": 67933,
-  "expoServerNgrokUrl": "https://ei-7h2.jku.foodcentral.exp.direct",
-  "packagerNgrokUrl": "https://packager.ei-7h2.jku.foodcentral.exp.direct",
-  "ngrokPid": 67947
+  "packagerPort": 19004,
+  "packagerPid": 68865,
+  "expoServerNgrokUrl": "https://vs-pvj.jku.foodcentral.exp.direct",
+  "packagerNgrokUrl": "https://packager.vs-pvj.jku.foodcentral.exp.direct",
+  "ngrokPid": 68883
 }
