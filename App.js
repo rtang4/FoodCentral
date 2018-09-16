@@ -4,6 +4,7 @@ import { createStackNavigator } from 'react-navigation';
 import expo from 'expo';
 import HomeScreen from './screens/HomeScreen.js'
 import ARScreen from './screens/ARScreen.js'
+import WebScreen from './screens/WebScreen.js'
 
 class App extends React.Component {
   render() {
@@ -16,7 +17,8 @@ class App extends React.Component {
 
 export default createStackNavigator({
   Home : HomeScreen,
-  AR : ARScreen
+  AR : ARScreen,
+  Web: WebScreen
 },
 {
     headerMode: 'none',

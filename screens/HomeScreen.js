@@ -24,7 +24,7 @@ export default class HomeScreen extends React.Component {
       <View style={{flex:1, flexDirection:'column'}}>
         <Draggable renderShape='image' imageSource={Camera} reverse={false}
           renderSize={56} renderColor='black' offsetX={120} offsetY={200}
-          renderText='A' 
+          renderText='A'
           pressDragRelease={()=>this.props.navigation.navigate('AR')}/>
         <Header navigation={this.props.navigation}/>
 
